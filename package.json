@@ -1,6 +1,6 @@
 {
   "name": "k8-healthchecks",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "The implementation of the Health Checks API (https://github.com/AMhaish/node-healthchecks-api) forked from (https://github.com/Bauer-Xcel-Media/node-healthchecks-api) because of some limitation in routes.",
   "homepage": "https://github.com/AMhaish/node-healthchecks-api",
   "main": "index.js",
