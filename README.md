@@ -206,6 +206,8 @@ checks:
 >   },
 > });
 > ```
+>
+> _You can also choose the baseRoute if you want to define a custom route, the default one will be /status/health but you can add your custom route like /payments/health or even /finance/payments/health depending on your needs_
 
 ### Initialization
 
